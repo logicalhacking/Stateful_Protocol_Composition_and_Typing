@@ -31,13 +31,13 @@ SPDX-License-Identifier: BSD-3-Clause
 
 The master git repository for this project is hosted by the [Software
 Assurance & Security Research Team](https://logicalhacking.com) at
-<https://git.logicalhacking.com/afp-mirror/Stateful_Protocol_Composition_and_Typing.html>.
+<https://git.logicalhacking.com/afp-mirror/Stateful_Protocol_Composition_and_Typing>.
 
 ## Publications
 
 * Andreas V. Hess, Sebastian Mödersheim, and Achim D. Brucker. Stateful
   Protocol Composition and Typing. In Archive of Formal Proofs, 2020. 
-  http://www.isa-afp.org/entries/tateful_Protocol_Composition_and_Typing.html, 
+  <http://www.isa-afp.org/entries/tateful_Protocol_Composition_and_Typing.html>, 
   Formal proof development
 * Andreas V. Hess, Sebastian A. Mödersheim, and Achim D. Brucker. Stateful 
   Protocol Composition. In ESORICS. Lecture Notes in Computer Science (11098),
