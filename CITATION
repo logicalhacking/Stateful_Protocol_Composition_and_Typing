@@ -1,0 +1,38 @@
+To cite the use of this formal theory, please use
+
+  Andreas V. Hess, Sebastian Mödersheim, and Achim D. Brucker. Stateful
+  Protocol Composition and Typing. In Archive of Formal Proofs, 2020. 
+  http://www.isa-afp.org/entries/tateful_Protocol_Composition_and_Typing.html, 
+  Formal proof development
+
+A BibTeX entry for LaTeX users is
+@Article{ hess.ea:stateful:2020,
+	abstract= {We provide in this AFP entry several relative soundness 
+                   results for security protocols. In particular, we prove 
+                   typing and compositionality results for stateful protocols
+                   (i.e., protocols with mutable state that may span several
+                   sessions), and that focuses on reachability properties. Such
+                   results are useful to simplify protocol verification by 
+                   reducing it to a simpler problem: Typing results give 
+                   conditions under which it is safe to verify a protocol in a 
+                   typed model where only "well-typed" attacks can occur whereas 
+                   compositionality results allow us to verify a composed protocol
+                   by only verifying the component protocols in isolation. The 
+                   conditions on the protocols under which the results hold are 
+                   furthermore syntactic in nature allowing for full automation. 
+                   The foundation presented here is used in another entry to 
+                   provide fully automated and formalized security proofs of 
+                   stateful protocols.},
+	author	= {Andreas V. Hess and Sebastian M{\"o}dersheim and Achim D. Brucker},
+	date	= {2020-04-08},
+	file	= {https://www.brucker.ch/bibliography/download/2020/hess.ea-stateful-outline-2020.pdf},
+	filelabel= {Outline},
+	issn	= {2150-914x},
+	journal	= {Archive of Formal Proofs},
+	month	= {apr},
+	note	= {\url{http://www.isa-afp.org/entries/tateful_Protocol_Composition_and_Typing.html}, Formal proof development},
+	pdf	= {https://www.brucker.ch/bibliography/download/2020/hess.ea-stateful-2020.pdf},
+	title	= {Stateful Protocol Composition and Typing},
+	url	= {https://www.brucker.ch/bibliography/abstract/hess.ea-stateful-2020},
+	year	= {2020},
+} 
