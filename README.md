@@ -1,4 +1,4 @@
-# Stateful Protocol Composition and Typing (
+# Stateful Protocol Composition and Typing 
 
 This git repository contains a local mirror of
 [Stateful Protocol Composition and Typing](https://www.isa-afp.org/entries/Stateful_Protocol_Composition_and_Typing.html)
