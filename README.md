@@ -12,7 +12,7 @@ submitted (as an update of the Stateful Protocol Composition and Typing entry) a
 ## Installation
 
 ```console
-achim@logicalhacking:~$ isabelle build -D Stateful_Protocol_Composition_and_Typing.html
+achim@logicalhacking:~$ isabelle build -D Stateful_Protocol_Composition_and_Typing
 ```
 
 ## Authors
